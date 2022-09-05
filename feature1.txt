@@ -1,2 +1,3 @@
 Old feature removed New feature file lines
-New lines in master
+added for merger conflict
+New feature file lines
