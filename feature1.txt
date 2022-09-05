@@ -1,2 +1,2 @@
-New feature added
+Old feature added for merger conflict
 New feature file lines
